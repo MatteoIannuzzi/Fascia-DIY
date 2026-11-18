@@ -1,0 +1,15 @@
+# Programmi compilati (si ricreano con gcc)
+prot
+genera
+fascia
+*.o
+*.out
+
+# Dati generati (si ricreano con ./genera > dati.csv)
+dati.csv
+
+# File di sistema del Mac
+.DS_Store
+
+# Impostazioni dell'editor
+.vscode/
